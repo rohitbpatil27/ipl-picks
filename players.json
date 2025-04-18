@@ -1,26 +1,26 @@
 [
   {
-    "name": "Virat Kohli",
+    "name": "Phil Salt (C)",
+    "team": "RCB",
+    "role": "Wickeetkeeper/Batsman",
+    "reason": "In red hot form with 208 runs in six innings at a strike rate of 185.72."
+  },
+  {
+    "name": "Virat Kohli (VC)",
     "team": "RCB",
     "role": "Batsman",
-    "reason": "In great form and loves chasing totals."
+    "reason": "Consistent performer with 248 runs in the last six matches."
   },
   {
-    "name": "Rashid Khan",
-    "team": "GT",
-    "role": "Bowler",
-    "reason": "Consistent wicket-taker, especially in middle overs."
-  },
-  {
-    "name": "Hardik Pandya",
-    "team": "MI",
-    "role": "All-rounder",
-    "reason": "Can contribute with both bat and ball, high impact player."
-  },
-  {
-    "name": "Jos Buttler",
-    "team": "RR",
+    "name": "Rajat Patidar",
+    "team": "RCB",
     "role": "Batsman",
-    "reason": "Explosive opener, dangerous in powerplay overs."
+    "reason": "His role in anchoring the innings can yield steady points."
+  },
+  {
+    "name": "Shreyas Iyer",
+    "team": "PBKS",
+    "role": "Batsman",
+    "reason": "Known for his ability to build innings and accelerate when needed."
   }
 ]
