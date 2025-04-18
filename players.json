@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Virat Kohli",
+    "team": "RCB",
+    "role": "Batsman",
+    "reason": "In great form and loves chasing totals."
+  },
+  {
+    "name": "Rashid Khan",
+    "team": "GT",
+    "role": "Bowler",
+    "reason": "Consistent wicket-taker, especially in middle overs."
+  },
+  {
+    "name": "Hardik Pandya",
+    "team": "MI",
+    "role": "All-rounder",
+    "reason": "Can contribute with both bat and ball, high impact player."
+  },
+  {
+    "name": "Jos Buttler",
+    "team": "RR",
+    "role": "Batsman",
+    "reason": "Explosive opener, dangerous in powerplay overs."
+  }
+]

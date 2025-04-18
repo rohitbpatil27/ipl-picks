@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>IPL Fantasy Picks</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🏏 4 Must-Have Players for IPL Fantasy League</h1>
+    <p>Today's Match: MI vs CSK - Apr 18</p>
+  </header>
+
+  <main class="player-grid" id="players-container">
+    <!-- Player cards will be injected here -->
+  </main>
+
+  <footer>
+    <p>Made with ❤️ for IPL fans</p>
+  </footer>
+
+  <script>
+    fetch('players.json')
+      .then(response => response.json())
+      .then(players => {
+        const container = document.getElementById('players-container');
+        players.forEach(player => {
+          const card = document.createElement('div');
+          card.className = 'player-card';
+          card.innerHTML = `
+            <h2>${player.name}</h2>
+            <p><strong>Team:</strong> ${player.team}</p>
+            <p><strong>Role:</strong> ${player.role}</p>
+            <p class="reason">💡 ${player.reason}</p>
+          `;
+          container.appendChild(card);
+        });
+      })
+      .catch(err => {
+        document.getElementById('players-container').innerHTML = '<p>Failed to load player data.</p>';
+        console.error('Error loading players:', err);
+      });
+  </script>
+</body>
+</html>
