@@ -1,26 +1,26 @@
 [
   {
-    "name": "Phil Salt (C)",
-    "team": "RCB",
-    "role": "Wickeetkeeper/Batsman",
-    "reason": "In red hot form with 208 runs in six innings at a strike rate of 185.72."
+    "name": "Shubman Gill",
+    "team": "GT",
+    "role": "Batsman",
+    "reason": "Knows this pitch like his own backyard. Handles both spin and pace with poise."
   },
   {
-    "name": "Virat Kohli (VC)",
-    "team": "RCB",
-    "role": "Batsman",
-    "reason": "Consistent performer with 248 runs in the last six matches."
+    "name": "KL Rahul",
+    "team": "DC",
+    "role": "Wicketkeeper/Batsman",
+    "reason": "Safe anchor, can give a solid start and usually plays deep"
   },
   {
-    "name": "Rajat Patidar",
-    "team": "RCB",
+    "name": "Karun Nair",
+    "team": "DC",
     "role": "Batsman",
-    "reason": "His role in anchoring the innings can yield steady points."
+    "reason": "A bit of a punt pick, but if he gets time at the crease, can turn it on."
   },
   {
-    "name": "Shreyas Iyer",
-    "team": "PBKS",
+    "name": "Sai Sudharsan",
+    "team": "GT",
     "role": "Batsman",
-    "reason": "Known for his ability to build innings and accelerate when needed."
+    "reason": "Plays spin and pace well, rotates strike, smart player on big grounds."
   }
 ]
