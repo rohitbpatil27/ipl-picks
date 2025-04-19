@@ -1,26 +1,26 @@
 [
   {
-    "name": "Shubman Gill",
-    "team": "GT",
+    "name": "Yashasvi Jaiswal (C)",
+    "team": "RR",
     "role": "Batsman",
-    "reason": "Knows this pitch like his own backyard. Handles both spin and pace with poise."
+    "reason": "In red-hot form with 3 fifties in last 4 innings; strong Jaipur record and RR’s best hope."
   },
   {
-    "name": "KL Rahul",
-    "team": "DC",
-    "role": "Wicketkeeper/Batsman",
-    "reason": "Safe anchor, can give a solid start and usually plays deep"
+    "name": "Mitchell Marsh",
+    "team": "LSG",
+    "role": "All-rounder",
+    "reason": "Consistent scorer, can clear the ropes and provide useful overs with the ball."
   },
   {
-    "name": "Karun Nair",
-    "team": "DC",
+    "name": "Nicholas Pooran (VC)",
+    "team": "LSG",
     "role": "Batsman",
-    "reason": "A bit of a punt pick, but if he gets time at the crease, can turn it on."
+    "reason": "Explosive middle-order batter, 652 runs this season and a game-changer under pressure."
   },
   {
-    "name": "Sai Sudharsan",
-    "team": "GT",
+    "name": "Vaibhav Suryavanshi",
+    "team": "RR",
     "role": "Batsman",
-    "reason": "Plays spin and pace well, rotates strike, smart player on big grounds."
+    "reason": "Wildcard youngster, 14 years old; massive potential if picked, could be the surprise X-factor."
   }
 ]
