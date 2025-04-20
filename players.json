@@ -1,26 +1,32 @@
 [
   {
-    "name": "Yashasvi Jaiswal (C)",
-    "team": "RR",
-    "role": "Batsman",
-    "reason": "In red-hot form with 3 fifties in his last 4 innings; thrives in Jaipur conditions."
+    "name": "Philip Salt (VC)",
+    "team": "KKR",
+    "role": "Wicketkeeper-Batsman",
+    "reason": "Explosive opener; great recent form and quick scoring potential in powerplay."
   },
   {
-    "name": "Mitchell Marsh",
-    "team": "LSG",
-    "role": "All-rounder",
-    "reason": "Reliable run-getter with six-hitting power and useful overs if needed."
+    "name": "Virat Kohli (C)",
+    "team": "RCB",
+    "role": "Batsman",
+    "reason": "Most consistent RCB performer this season; anchoring the innings beautifully."
   },
   {
-    "name": "Nicholas Pooran (VC)",
-    "team": "LSG",
+    "name": "Shreyas Iyer",
+    "team": "KKR",
     "role": "Batsman",
-    "reason": "LSG's middle-order pillar, explosive with the bat, 357 runs already this season."
+    "reason": "Key middle-order batter; capable of rotating strike and accelerating late."
   },
   {
-    "name": "Aiden Markram",
-    "team": "LSG",
+    "name": "Priyansh Arya",
+    "team": "DC",
     "role": "Batsman",
-    "reason": "Form has been steady; classy player who can anchor or accelerate based on the situation."
+    "reason": "Young talent with attacking instinct; value pick for budget and upside."
+  },
+  {
+    "name": "Prabhsimran Singh",
+    "team": "PBKS",
+    "role": "Batsman",
+    "reason": "Aggressive opener; known for early fireworks, can provide high-impact points."
   }
 ]
