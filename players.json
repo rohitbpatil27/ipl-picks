@@ -1,32 +1,32 @@
-[
-  {
-    "name": "Philip Salt (VC)",
-    "team": "KKR",
-    "role": "Wicketkeeper-Batsman",
-    "reason": "Explosive opener; great recent form and quick scoring potential in powerplay."
-  },
-  {
-    "name": "Virat Kohli (C)",
-    "team": "RCB",
-    "role": "Batsman",
-    "reason": "Most consistent RCB performer this season; anchoring the innings beautifully."
-  },
-  {
-    "name": "Shreyas Iyer",
-    "team": "KKR",
-    "role": "Batsman",
-    "reason": "Key middle-order batter; capable of rotating strike and accelerating late."
-  },
-  {
-    "name": "Priyansh Arya",
-    "team": "DC",
-    "role": "Batsman",
-    "reason": "Young talent with attacking instinct; value pick for budget and upside."
-  },
-  {
-    "name": "Prabhsimran Singh",
-    "team": "PBKS",
-    "role": "Batsman",
-    "reason": "Aggressive opener; known for early fireworks, can provide high-impact points."
-  }
-]
+{
+  "players": [
+    {
+      "name": "Hardik Pandya (C)",
+      "team": "Mumbai Indians",
+      "role": "All-rounder",
+      "reason": "Consistently picking wickets, contributes with bat, likely to bowl at the death.",
+      "captain_choice": true
+    },
+    {
+      "name": "Suryakumar Yadav",
+      "team": "Mumbai Indians",
+      "role": "Batsman",
+      "reason": "Best MI batter, high impact player especially at Wankhede, can score quickly on a flat pitch.",
+      "vice_captain_choice": true
+    },
+    {
+      "name": "Rachin Ravindra (VC)",
+      "team": "Chennai Super Kings",
+      "role": "Batsman",
+      "reason": "Most consistent batter for CSK, positive approach in powerplay, can also bowl if needed.",
+      "captain_choice": false
+    },
+    {
+      "name": "Khaleel Ahmed",
+      "team": "Chennai Super Kings",
+      "role": "Bowler",
+      "reason": "Has favorable matchups against MI top-order, likely to bowl in powerplay and death.",
+      "captain_choice": false
+    }
+  ]
+}
