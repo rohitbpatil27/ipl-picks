@@ -4,29 +4,25 @@
       "name": "Hardik Pandya (C)",
       "team": "Mumbai Indians",
       "role": "All-rounder",
-      "reason": "Consistently picking wickets, contributes with bat, likely to bowl at the death.",
-      "captain_choice": true
+      "reason": "Consistently picking wickets, contributes with bat, likely to bowl at the death."
     },
     {
       "name": "Suryakumar Yadav",
       "team": "Mumbai Indians",
       "role": "Batsman",
-      "reason": "Best MI batter, high impact player especially at Wankhede, can score quickly on a flat pitch.",
-      "vice_captain_choice": true
+      "reason": "Best MI batter, high impact player especially at Wankhede, can score quickly on a flat pitch."
     },
     {
       "name": "Rachin Ravindra (VC)",
       "team": "Chennai Super Kings",
       "role": "Batsman",
-      "reason": "Most consistent batter for CSK, positive approach in powerplay, can also bowl if needed.",
-      "captain_choice": false
+      "reason": "Most consistent batter for CSK, positive approach in powerplay, can also bowl if needed."
     },
     {
       "name": "Khaleel Ahmed",
       "team": "Chennai Super Kings",
       "role": "Bowler",
-      "reason": "Has favorable matchups against MI top-order, likely to bowl in powerplay and death.",
-      "captain_choice": false
+      "reason": "Has favorable matchups against MI top-order, likely to bowl in powerplay and death."
     }
   ]
 }
